@@ -134,6 +134,9 @@ Node.jsを用いたサーバレス開発（AWS Lambda, DynamoDB, API Gateway）
 - Front-End
   - WebUSBを利用したFelica読み込み開発
 
+
+## リーディングエッジ株式会社 (2015年～2016年)
+
 ### ■プロジェクト概要
 
 ・水門陸閘システム
