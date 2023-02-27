@@ -8,7 +8,7 @@
 - JavaScript/TypeScript/Angular/Vue(with Nuxt)/React(with Next)
 
 ■ サブプログラミング言語
-- Python/Node.js/Java/C#
+- Python/Node.js/Java/Dart(with Flutter Framework)
 
 ■ その他
 - AWS：DynamoDB/Lambda/API Gateway/Cognito
@@ -16,6 +16,7 @@
 - github/chatwork/backlog/slack/mattermost
 
 ■ 保有資格
+- Azure DevOps Engineer Expert
 - Azure Solutions Architect Expert
 - Azure Developer Associate
 - Azure Administrator Associate
@@ -33,11 +34,33 @@
 
 ## ビートテック株式会社 (2016年～現在)
 - 部署：技術部
-- 主に顧客先に在中して開発
+- 主に顧客先に在中して開発 (SI開発)
 
 ### ■プロジェクト概要
 
-・基金業務システム開発
+・三洋貿易 ERPシステム再構築
+
+[チーム体制と役割]
+
+プロジェクト人員は約15人以上体制。
+Front-End 5人～30人が担当。
+
+[技術スタック]
+
+Next.js Framework (TypeScript)
+
+[担当業務]
+
+Front-Endのリードエンジニア担当。
+
+- Next.js Application基盤構築
+  - アーキテクチャ構築
+  - React Queryを用いたData Management基盤構築
+    ...現在進行中
+
+### ■プロジェクト概要
+
+・ITS基金業務システム開発
 
 [チーム体制と役割]
 
@@ -159,6 +182,14 @@ Java/JQuery/Postgresql/SVN
 
 
 # サイドプロジェクト
+
+## Flutter 開発
+
+### 技術スタック
+
+ - Dart/Flutter
+ 
+ ...現在進行中
 
 ## Nuxt Blog 開発
 
