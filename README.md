@@ -4,18 +4,79 @@
 
 # テクニカルスキル
 
-■ 主力プログラミング言語
-- JavaScript/TypeScript/Angular/Vue(with Nuxt)/React(with Next)
-
-■ サブプログラミング言語
-- Python/Node.js/Java/Dart(with Flutter Framework)
-
-■ その他
-- AWS：DynamoDB/Lambda/API Gateway/Cognito
-- Azure：Function/CosmosDB/API Management/AD B2C
-- github/chatwork/backlog/slack/mattermost
+![TS](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=white&color=3178C6)
+![JS](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML-red?style=flat&logo=html5&logoColor=white&color=E34F26)
+![CSS3](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3&logoColor=white&color=1572B6)
+![React](https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=white&color=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white&color=000000)
+![Vue.js](https://img.shields.io/badge/Vue.js-green?style=flat&logo=vue.js&logoColor=white&color=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-red?style=flat&logo=angular&logoColor=white&color=B52E31)
+![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter&logoColor=white&color=02569B)
+![Dart](https://img.shields.io/badge/Dart-blue?style=flat&logo=dart&logoColor=white&color=0175C2)
+![AWS](https://img.shields.io/badge/AWS-orange?style=flat&logo=amazon-aws&logoColor=white&color=FF9900)
+![Azure](https://img.shields.io/badge/Azure-blue?style=flat&logo=microsoft-azure&logoColor=white&color=0089D6)
+![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white&color=2496ED)
 
 ■ 保有資格
+
+<div style="display: flex">
+  <a href="https://www.credly.com/badges/d61b3f2b-4a86-46a6-9e74-523b1a60ae29/public_url">
+    <img
+      width="100"
+      src="https://images.credly.com/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png"
+      alt="Azure DevOps Engineer Expert"
+    />
+  </a>
+
+  <a href="https://www.credly.com/badges/f2be129f-cb89-4c3c-9fc5-c33d5d24de30/public_url">
+    <img
+      width="100"
+      src="https://images.credly.com/size/110x110/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png"
+      alt="Microsoft Certified: Azure Solutions Architect Expert"
+    />
+  </a>
+
+  <a href="https://www.credly.com/badges/4074ea69-9258-4675-8544-bca4e250ab70/public_url">
+    <img
+      width="100"
+      src="https://images.credly.com/size/220x220/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png"
+      alt="Azure Solutions Architect Expert"
+    />
+  </a>
+
+  <a href="https://www.credly.com/badges/6f6037c3-8ee2-472d-9026-e3dd7f01a56f/public_url">
+    <img
+      width="100"
+      src="https://images.credly.com/size/220x220/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png"
+      alt="Azure Administrator Associate"
+    />
+  </a>
+  
+  <a href="https://www.credly.com/badges/c7cb3ce8-d768-4fd2-8ad6-07b308d10a9a/public_url">
+    <img
+      width="100"
+      src="https://images.credly.com/size/220x220/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"
+      alt="Azure Fundamentals"
+    />
+  </a>
+  
+  <a href="https://www.credly.com/badges/0e25a234-7524-4988-bd65-c63282d39e7d/public_url">
+    <img
+      width="100"
+      src="https://images.credly.com/size/220x220/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"
+      alt="AWS Certified Developer – Associate"
+    />
+  </a>
+  <a href="https://www.credly.com/badges/aee53453-5210-44f0-9c0e-9ec5e14271a0/public_url">
+    <img
+      width="100"
+      src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"
+      alt="AWS Certified Solutions Architect – Associate"
+    />
+  </a>
+</div>
+
 - Azure DevOps Engineer Expert
 - Azure Solutions Architect Expert
 - Azure Developer Associate
