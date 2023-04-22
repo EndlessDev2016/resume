@@ -8,15 +8,20 @@
 ![JS](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML-red?style=flat&logo=html5&logoColor=white&color=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3&logoColor=white&color=1572B6)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js&logoColor=white&color=339933)
 ![React](https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=white&color=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white&color=000000)
 ![Vue.js](https://img.shields.io/badge/Vue.js-green?style=flat&logo=vue.js&logoColor=white&color=4FC08D)
 ![Angular](https://img.shields.io/badge/Angular-red?style=flat&logo=angular&logoColor=white&color=B52E31)
+![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white&color=3776AB)
+![Django](https://img.shields.io/badge/Django-blue?style=flat&logo=django&logoColor=white&color=092E20)
 ![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter&logoColor=white&color=02569B)
 ![Dart](https://img.shields.io/badge/Dart-blue?style=flat&logo=dart&logoColor=white&color=0175C2)
 ![AWS](https://img.shields.io/badge/AWS-orange?style=flat&logo=amazon-aws&logoColor=white&color=FF9900)
 ![Azure](https://img.shields.io/badge/Azure-blue?style=flat&logo=microsoft-azure&logoColor=white&color=0089D6)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white&color=2496ED)
+
+
 
 ■ 保有資格
 
