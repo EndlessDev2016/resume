@@ -256,11 +256,16 @@ Java/JQuery/Postgresql/SVN
 
 ## Flutter 開発
 
-### 技術スタック
+### 技術習熟用) 料理レシピアプリ
 
- - Dart/Flutter
- 
- ...現在進行中
+https://github.com/EndlessSlow/flutter_meals_app_v3
+
+### プロダクト用) 「君のアナグラムは？」アプリ
+
+現在開発中。
+※ 技術スタックは
+- ChatGPT API (v3)
+- OAuth2/OpenID Connect (Firebase or Azure)
 
 ## Nuxt Blog 開発
 
@@ -277,7 +282,6 @@ https://ps-story.blog/
  - Ionic
 
 https://www.slideshare.net/SeunghunLee30/ionic-cross-platform-mobile-app
-
 
 # 長所
 
