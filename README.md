@@ -94,35 +94,40 @@
 
 # 職務経歴
 
-主にフロントエンドアプリ開発を担当。
-
-案件によってはバックエンドのマイクロサービス開発を担当する経験があります。
+専門スペシャリストFront-Endエンドエンジニアで活躍中。
+案件によって、Back-End開発経験もあり。(e.g. AWS Lambda マイクロサービス、Python Django、ect...)
 
 ## ビートテック株式会社 (2016年～現在)
 - 部署：技術部
-- 主に顧客先に在中して開発 (SI開発)
+- 役職：スペシャリスト(Lv4)
+- SI開発 (顧客先在中開発)
+
+## リーディングエッジ (2015年～2016年)
+- 新入社員入社
+- SI開発 (顧客先在中開発)
 
 ### ■プロジェクト概要
 
-・三洋貿易 ERPシステム再構築
+・三洋貿易 ERP(Enterprise Resource Planning)システム開発
 
 [チーム体制と役割]
 
-プロジェクト人員は約15人以上体制。
-Front-End 5人～30人が担当。
+現在、プロジェクト人員は約30人以上体制。
+Front-End人員 11人体制。
 
 [技術スタック]
 
-Next.js Framework (TypeScript)
+Next.js/AWS EC2/MySql/KeyCloak/Docker/Azure DevOps/Azure Repo/Teams
 
 [担当業務]
 
-Front-Endのリードエンジニア担当。
+Front-End テックリードエンジニア担当。
 
-- Next.js Application基盤構築
-  - アーキテクチャ構築
-  - React Queryを用いたData Management基盤構築
-    ...現在進行中
+- Next Application 基盤設計&実装
+  - 業務レベルに合うアーキテクチャ構築
+  - NextAuthとKeyCloakを用いたログイン構築
+  - Data Management構築
+    - React Queryを用いた業務用ロジック実装 & 展開
 
 ### ■プロジェクト概要
 
@@ -130,8 +135,8 @@ Front-Endのリードエンジニア担当。
 
 [チーム体制と役割]
 
-プロジェクト人員は約１２人体制。
-Front-End 3人が担当。
+プロジェクト人員は約12人体制。
+Front-End人員 3人体制
 
 [技術スタック]
 
