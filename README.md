@@ -260,12 +260,12 @@ Java/JQuery/Postgresql/SVN
 
 https://github.com/EndlessSlow/flutter_meals_app_v3
 
-### プロダクト用) 「君のアナグラムは？」アプリ
+### プロダクト用) 「AI神の声」アプリ
+技術スタックは
+- Bard AI - https://github.com/EvanZhouDev/bard-ai
+- flutter_tts - https://pub.dev/packages/flutter_tts
 
-現在開発中。
-※ 技術スタックは
-- ChatGPT API (v3)
-- OAuth2/OpenID Connect (Firebase or Azure)
+※現在、リリース準備中
 
 ## Nuxt Blog 開発
 
