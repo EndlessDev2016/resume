@@ -276,8 +276,6 @@ https://shorturl.at/xyBFX
   </a>
 </div>
 
-https://pbs.twimg.com/media/F3uPCAPaAAAG3pM?format=jpg&name=medium
-
 技術スタック
 - 対話型AI生成
   - Bard AI - https://github.com/EvanZhouDev/bard-ai
