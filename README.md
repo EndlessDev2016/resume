@@ -254,18 +254,36 @@ Java/JQuery/Postgresql/SVN
 
 # サイドプロジェクト
 
-## Flutter 開発
+## Flutter Framework (iOS, Android Mobile)
 
 ### 技術習熟用) 料理レシピアプリ
 
 https://github.com/EndlessSlow/flutter_meals_app_v3
 
-### プロダクト用) 「AI神の声」アプリ
-技術スタックは
-- Bard AI - https://github.com/EvanZhouDev/bard-ai
-- flutter_tts - https://pub.dev/packages/flutter_tts
+### 「AI神の声」アプリ
 
-※現在、リリース準備中
+- iOS - App Store 😀
+https://shorturl.at/kzCNZ
+- Android - Google Play 😀
+https://shorturl.at/xyBFX
+
+<div style="display: flex">
+  <a href="https://twitter.com/EndlessSlow/status/1692110347396952348">
+    <img
+      src="https://pbs.twimg.com/media/F3uPCAPaAAAG3pM?format=jpg&name=medium"
+      alt="Voice Of AI God"
+    />
+  </a>
+</div>
+
+https://pbs.twimg.com/media/F3uPCAPaAAAG3pM?format=jpg&name=medium
+
+技術スタック
+- 対話型AI生成
+  - Bard AI - https://github.com/EvanZhouDev/bard-ai
+  ※GPT APIは有料なので、コストを考えてこちらを選択
+- TTS(Text To Speech)
+  - flutter_tts - https://pub.dev/packages/flutter_tts  
 
 ## Nuxt Blog 開発
 
@@ -285,12 +303,15 @@ https://www.slideshare.net/SeunghunLee30/ionic-cross-platform-mobile-app
 
 # 長所
 
-常に新しい技術に興味があり、学習意欲があることです。
-キャリアアップのために資格取得やUndemy、MediumのBlogポスティングを通して技術を学習しています。
+常に新しい技術に興味があり、学習意欲があります。
+将来とキャリアアップのために資格取得や、Undemy、Medium、youtubeなどで最新技術取得をしています。
+学んだ技術は、技術Blogポスティングしています。
 
 # 趣味
 
 - ロードバイク
   - 自分の好きなパーツを工具とマニュアルを利用して組み立てや整備などを自分で行うアマチュアメカニックです。
-- マイニングマシン
+- ランニング
+  - 週3回約5kmは、怠らず走ります。
+- Web3
   - ブロックチェーンなどに興味があり、手作りマイニングマシンなどを組み立てたりします。
