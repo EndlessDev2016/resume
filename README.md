@@ -283,6 +283,15 @@ https://shorturl.at/xyBFX
 - TTS(Text To Speech)
   - flutter_tts - https://pub.dev/packages/flutter_tts  
 
+
+### 予定) プロジェクト名「AI Wallpaper Generator - AI 画像生成」
+
+Coming soon...
+
+技術スタック
+- Stable Diffusion Model (※API使用予定)
+- ※追加予定
+
 ## Nuxt Blog 開発
 
 Nuxt Contentフレームワークを利用したTeck Blog開発
@@ -302,8 +311,8 @@ https://www.slideshare.net/SeunghunLee30/ionic-cross-platform-mobile-app
 # 長所
 
 常に新しい技術に興味があり、学習意欲があります。
-将来とキャリアアップのために資格取得や、Undemy、Medium、youtubeなどで最新技術取得をしています。
-学んだ技術は、技術Blogポスティングしています。
+将来とキャリアアップのために資格取得、Undemy、Medium、Youtubeなどで、最新テック情報や技術取得をしています。
+学んだ技術は、ブログにポスティングなどをしています。
 
 # 趣味
 
