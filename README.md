@@ -283,13 +283,20 @@ https://shorturl.at/xyBFX
 - TTS(Text To Speech)
   - flutter_tts - https://pub.dev/packages/flutter_tts  
 
-
 ### 予定) プロジェクト名「AI Wallpaper Generator - AI 画像生成」
 
 Coming soon...
 
 技術スタック
 - Stable Diffusion Model (※API使用予定)
+- ※追加予定
+
+### 予定) LangChainを用いたプロジェクト(Web or Mobile)
+
+Coming soon...
+
+技術スタック
+- LangChain, LAMA2, GPT API, ect...
 - ※追加予定
 
 ## Nuxt Blog 開発
