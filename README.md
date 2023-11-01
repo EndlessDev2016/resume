@@ -1,6 +1,6 @@
 # はじめに (Introduction)
 
-「スキル」、「職務経歴」、「ポートフォリオ」、「長所」、「趣味」などを残すページになります。
+「スキル」、「職務経歴」、「ポートフォリオ」、「趣味」などを残すページになります。
 
 # テクニカルスキル
 
@@ -20,8 +20,6 @@
 ![AWS](https://img.shields.io/badge/AWS-orange?style=flat&logo=amazon-aws&logoColor=white&color=FF9900)
 ![Azure](https://img.shields.io/badge/Azure-blue?style=flat&logo=microsoft-azure&logoColor=white&color=0089D6)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white&color=2496ED)
-
-
 
 ■ 保有資格
 
@@ -95,7 +93,7 @@
 # 職務経歴
 
 専門スペシャリストFront-Endエンドエンジニアで活躍中。
-案件によって、Back-End開発経験もあり。(e.g. AWS Lambda マイクロサービス、Python Django、ect...)
+要件によっては、Back-End開発もありました(e.g. Micro Service開発、AWS Lambda、Python Django、etc...)
 
 ## ビートテック株式会社 (2016年～現在)
 - 部署：技術部
@@ -291,12 +289,12 @@ Coming soon...
 - Stable Diffusion Model (※API使用予定)
 - ※追加予定
 
-### 予定) LangChainを用いたプロジェクト(Web or Mobile)
+### 予定) LangChain技術を用いたサイドプロジェクト(Web or Mobile)
 
 Coming soon...
 
 技術スタック
-- LangChain, LLAMA2 or ~~GPT API(高い…)~~, ect...
+- LangChain, LLAMA2(3) or GPT API, etc...
 - ※追加予定
 
 ## Nuxt Blog 開発 (現在は `Next.js`に改修済み)
@@ -315,17 +313,14 @@ https://ps-story.blog/
 
 https://www.slideshare.net/SeunghunLee30/ionic-cross-platform-mobile-app
 
-# 長所
-
-常に新しい技術に興味があり、学習意欲があります。
-将来とキャリアアップのために資格取得、Undemy、Medium、Youtubeなどで、最新テック情報や技術取得をしています。
-学んだ技術は、ブログにポスティングなどをしています。
-
 # 趣味
 
+- Tech動画
+  - UdemyやYoutubeなどで新技術や動画を見たりします。
 - ロードバイク
-  - 自分の好きなパーツを工具とマニュアルを利用して組み立てや整備などを自分で行うアマチュアメカニックです。
+  - 2016年に買った、Merida 100 Sculturaを愛用しています。
+  - 現在はSORAコンポ、CAMPAGNOLO ZONDA C17ホイールの組み合わせで、改造したモデルのロードバイクです。
 - ランニング
-  - 週3回約5kmは、怠らず走ります。
-- Web3
-  - ブロックチェーンなどに興味があり、手作りマイニングマシンなどを組み立てたりします。
+  - 週3回、約5kmは怠らず走ります。
+- 夜の散歩
+  - 夜空見ながら考え事する趣味
