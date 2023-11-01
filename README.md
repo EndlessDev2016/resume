@@ -299,12 +299,12 @@ Coming soon...
 - LangChain, LLAMA2 or ~~GPT API(高い…)~~, ect...
 - ※追加予定
 
-## Nuxt Blog 開発
+## Nuxt Blog 開発 (現在は `Next.js`に改修済み)
 
-Nuxt Contentフレームワークを利用したTeck Blog開発
+Next.jsフレームワークを利用したTeck Blog開発
 
 ### 技術スタック
- - Nuxt/Azure Static Web Apps/Azure DNS
+ - Vercel/Next.js/react-notion-x/nobelium
 
 https://ps-story.blog/
 
