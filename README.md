@@ -261,9 +261,10 @@ https://github.com/EndlessSlow/flutter_meals_app_v3
 ### 「AI神の声」アプリ
 
 - iOS - App Store 😀
-https://shorturl.at/kzCNZ
+https://apps.apple.com/jp/app/ai%E7%A5%9E%E3%81%AE%E5%A3%B0/id6459411132
+
 - Android - Google Play 😀
-https://shorturl.at/xyBFX
+https://play.google.com/store/apps/details?id=jp.endless.dev.voice_of_ai_god&hl=ja
 
 <div style="display: flex">
   <a href="https://twitter.com/EndlessSlow/status/1692110347396952348">
