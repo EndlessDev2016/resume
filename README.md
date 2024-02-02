@@ -290,12 +290,13 @@ Coming soon...
 - Stable Diffusion Model (※API使用予定)
 - ※追加予定
 
-### AI Butler (AI SaaS プラットフォーム)
+## AI Butler (AI SaaS プラットフォーム)
 
-- AI機能を用いた、「チャット」、「イメージ」、「動画」、「音楽」、「コード」を生成するSaasツール
+AI機能を用いた、「チャット」、「イメージ」、「動画」、「音楽」、「コード」を生成するSaasツール
+
 - https://ai-saas-next-js.vercel.app/
 
-技術スタック
+### 技術スタック
 - Next.js v13 (※新機能の「Server Action」と「App Route」の試し)
   - Tailwind
   - Shadcn UI (Tailwind UI Components)
