@@ -290,13 +290,29 @@ Coming soon...
 - Stable Diffusion Model (※API使用予定)
 - ※追加予定
 
-### 予定) LangChain技術を用いたサイドプロジェクト(Web or Mobile)
+### AI Butler (AI SaaS プラットフォーム)
 
-Coming soon...
+- AI機能を用いた、「チャット」、「イメージ」、「動画」、「音楽」、「コード」を生成するSaasツール
+- https://ai-saas-next-js.vercel.app/
 
 技術スタック
-- LangChain, LLAMA2(3) or GPT API, etc...
-- ※追加予定
+- Next.js v13 (※新機能の「Server Action」と「App Route」の試し)
+  - Tailwind
+  - Shadcn UI (Tailwind UI Components)
+  - React Hook Form (Form)
+  - Zustand (State Management)
+  - Zod (Validation)
+  - Next-intl (i18n)
+- 認証(Authentication)と認可（Authorization）
+  - Clerk (@clerk/nextjs)
+- DB
+  - Prisma ORM ※Object Relational Mapping
+- 決済（Payment）
+  - Stripe　※テストモードをデプロイ中。クレジットカード番号は入力可能だが、実際のお金の引き落としは、行なってない。
+- デプロイ
+  - Vercel
+- 多言語対応（国際化）
+  - Next-intl (※「日本語」、「韓国語」、「英語」を対応。)
 
 ## Nuxt Blog 開発 (現在は `Next.js`に改修済み)
 
