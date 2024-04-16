@@ -308,6 +308,7 @@ AI機能を用いた、「チャット」、「イメージ」、「動画」、
   - Clerk (@clerk/nextjs)
 - DB
   - Prisma ORM ※Object Relational Mapping
+  - PlanetScale (MySQL)
 - 決済（Payment）
   - Stripe　※テストモードをデプロイ中。クレジットカード番号は入力可能だが、実際のお金の引き落としは、行なってない。
 - デプロイ
