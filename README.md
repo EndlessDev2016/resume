@@ -287,19 +287,18 @@ https://play.google.com/store/apps/details?id=jp.endless.dev.voice_of_ai_god&hl=
 - TTS(Text To Speech)
   - flutter_tts - https://pub.dev/packages/flutter_tts  
 
-### 予定) プロジェクト名「AI Wallpaper Generator - AI 画像生成」
-
-Coming soon...
-
-技術スタック
-- Stable Diffusion Model (※API使用予定)
-- ※追加予定
-
 ## AI Butler (AI SaaS プラットフォーム)
 
 AI機能を用いた、「チャット」、「イメージ」、「動画」、「音楽」、「コード」を生成するSaasツール
 
 - https://ai-saas-next-js.vercel.app/
+
+
+### 予定) サクミセ
+
+Coming soon...
+
+アプリで撮った身分証明書を見せるアプリ。
 
 ### 技術スタック
 - Next.js v13 (※新機能の「Server Action」と「App Route」の試し)
