@@ -78,8 +78,16 @@
       alt="AWS Certified Solutions Architect – Associate"
     />
   </a>
+  <a href="https://www.credly.com/badges/aee53453-5210-44f0-9c0e-9ec5e14271a0/public_url">
+    <img
+      width="100"
+      src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main"
+      alt="Azure AI Fundamentals"
+    />
+  </a>
 </div>
 
+- Azure AI Fundamendal
 - Azure DevOps Engineer Expert
 - Azure Solutions Architect Expert
 - Azure Developer Associate
@@ -111,8 +119,8 @@
 
 ### ■プロジェクト概要
 
-・三洋貿易の業務システム開発
-
+・三洋貿易の業務システム開発(複数プロジェクト)
+ 
 [チーム体制と役割]
 
 現在、プロジェクト人員は約30人以上体制。
@@ -128,10 +136,10 @@ Front-End テックリードエンジニア担当。
 
 - Next Application 基盤設計&実装
   - 業務レベルに合うアーキテクチャ構築
-  - NextAuthとKeyCloakを用いたログイン構築
+  - NextAuthとKeyCloakを用いたLogin構築
   - Data Management構築
-    - React Queryを用いた業務用ロジック実装 & 展開
-
+  - MUI ライブラリを用いたカスタマイズ構築
+    
 ### ■プロジェクト概要
 
 ・ITS基金業務システム開発
@@ -254,8 +262,21 @@ Java/JQuery/Postgresql/SVN
   - html markup, cssデザインの全画面開発
   - jQueryを利用したAPI通信開発
 
-
 # サイドプロジェクト
+
+### 開発中) Ai Shortcut Utilities (仮) ※名前選定中
+
+Chrome Extention Application (Chromeブラウザの拡張機能アプリ)
+無料版(basic)と、有料版(pro)の機能を選別中。3~4月中リリース予定
+
+アプリで撮った身分証明書を見せるアプリ。
+
+### 予定) サクミセ(仮)
+
+Coming soon...
+iPhone Pro以上のライダーセンサーを用いたアプリ開発。(アイデアを考慮中)
+
+アプリで撮った身分証明書を見せるアプリ。
 
 ## Flutter Framework (iOS, Android Mobile)
 
@@ -292,13 +313,6 @@ https://play.google.com/store/apps/details?id=jp.endless.dev.voice_of_ai_god&hl=
 AI機能を用いた、「チャット」、「イメージ」、「動画」、「音楽」、「コード」を生成するSaasツール
 
 - https://ai-saas-next-js.vercel.app/
-
-
-### 予定) サクミセ
-
-Coming soon...
-
-アプリで撮った身分証明書を見せるアプリ。
 
 ### 技術スタック
 - Next.js v13 (※新機能の「Server Action」と「App Route」の試し)
